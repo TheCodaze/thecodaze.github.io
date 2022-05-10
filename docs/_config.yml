@@ -1,3 +1,4 @@
 theme: cayman-dark
 title: Codaze's Website
 description: description.txt
+remote_theme: lewismiddleton/cayman-dark
