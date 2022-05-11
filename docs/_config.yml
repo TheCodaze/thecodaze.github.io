@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Codaze's Website
 description: description.txt
 remote_theme: lewismiddleton/cayman-dark
+show_downloads: true
