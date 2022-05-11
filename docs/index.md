@@ -1,4 +1,5 @@
-## This is my website, i like it.
+## Cod's Webiste
+This is my website, i like it.
 I do dumb stuff and have no idea what im doing.
 
 # So heres some Download links to some things i did:
